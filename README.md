@@ -8,7 +8,7 @@
 
 1. Click on the Colab icon above to open the notebook
 2. Go to **File** → **Save a copy in Drive**
-3. Rename the copied notebook with your roll number (e.g., "2021-CS-001_Assignment")
+3. Rename the copied notebook with your roll number (e.g., "2021-CS-001")
 4. Start working on your assignment in the copied notebook
 
 **Note:** Always work on your own copy to avoid losing your progress! (and mine too ;)
