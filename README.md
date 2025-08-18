@@ -12,3 +12,8 @@
 4. Start working on your assignment in the copied notebook
 
 **Note:** Always work on your own copy to avoid losing your progress! (and mine too ;)
+
+
+## Slides
+
+## Tutorial Slides link on Prompt Engineering - [Visuals](https://docs.google.com/presentation/d/1vcml1SKF67bkyIwO7u1Tra1XcjgIEM-zVTeWqSqQxok/edit?usp=sharing)
