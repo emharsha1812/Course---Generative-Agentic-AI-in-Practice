@@ -20,3 +20,5 @@
 ## Slides
 
 ## Tutorial Slides link on Prompt Engineering - [Visuals](https://docs.google.com/presentation/d/1vcml1SKF67bkyIwO7u1Tra1XcjgIEM-zVTeWqSqQxok/edit?usp=sharing)
+
+## Tutorial Slides link on RAG - [Visuals](https://docs.google.com/presentation/d/1oOqykJf2mUZWf6O55SJg-xsDQFbh3V7DDghzt3hKaCs/edit?usp=sharing)
