@@ -1,8 +1,12 @@
 # Course---Generative-Agentic-AI-in-Practice
 
+## Assignment 1
+
 <a href="https://colab.research.google.com/drive/18tHitJkAu8G8yt5PO0D2SDDhbA4FdNnD?usp=sharing" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Assignment 2
 
 ## Instructions:
 
@@ -12,7 +16,6 @@
 4. Start working on your assignment in the copied notebook
 
 **Note:** Always work on your own copy to avoid losing your progress! (and mine too ;)
-
 
 ## Slides
 
