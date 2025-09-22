@@ -24,3 +24,5 @@
 ## Tutorial Slides link on RAG - [Visuals](https://docs.google.com/presentation/d/1oOqykJf2mUZWf6O55SJg-xsDQFbh3V7DDghzt3hKaCs/edit?usp=sharing)
 
 ## Tutorial Slides link on Finetuning - [Visuals](https://docs.google.com/presentation/d/1Z84W7MDhRktEg4f5P7cZdAVtpoqIODBTRnB6SdiO3lQ/edit?usp=sharing)
+
+## Tutorial Slides link on Reinforcement Finetuning - [Visuals](https://docs.google.com/presentation/d/1zvLMquipmqMB54Mv0h9-DIbKFiNEhkFuyyUlPHgkgi8/edit?usp=sharing)
