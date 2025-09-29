@@ -26,3 +26,5 @@
 ## Tutorial Slides link on Finetuning - [Visuals](https://docs.google.com/presentation/d/1Z84W7MDhRktEg4f5P7cZdAVtpoqIODBTRnB6SdiO3lQ/edit?usp=sharing)
 
 ## Tutorial Slides link on Reinforcement Finetuning - [Visuals](https://docs.google.com/presentation/d/1zvLMquipmqMB54Mv0h9-DIbKFiNEhkFuyyUlPHgkgi8/edit?usp=sharing)
+
+## Tutorial Slides link on Agents Part I - [Visuals](https://docs.google.com/presentation/d/1hmYAqUEjTr8UHR_rbJJ9qdmaKBrBYwqyIDU9tK9pcJ0/edit?usp=sharing)
